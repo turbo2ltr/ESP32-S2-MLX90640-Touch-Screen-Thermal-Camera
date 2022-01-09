@@ -10,6 +10,7 @@ This is a modification to the V3 example from Makerfabs with the following chang
 * Added button to lock upper and lower bounds (i.e. turn off auto-scaling)
 * Added crosshairs and temp readout in center of the image
 * Added button to save screenshot BMP to SD card.  (based off http://www.technoblogy.com/show?398X)
+* Translated Chinese comments and added many more
 
 ![screen](https://github.com/turbo2ltr/ESP32-S2-MLX90640-Touch-Screen-Thermal-Camera/blob/main/md_pic/screen1.jpg?raw=true)
 
