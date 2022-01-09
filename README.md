@@ -6,6 +6,7 @@ This is a modification to the V3 example from Makerfabs with the following chang
 * Removed option and related code for non-interpolated output
 * Removed unused SD Card functions
 * Added min/max/mean display
+* Displays temp in Fahrenheit 
 * Upper and lower bounds of the color map are no longer hard coded. They are now auto-scaling based on the min/max temperatures of the frame to get the best dynamic range
 * Added button to lock upper and lower bounds (i.e. turn off auto-scaling)
 * Added crosshairs and temp readout in center of the image
